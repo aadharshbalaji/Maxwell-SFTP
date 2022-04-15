@@ -1,0 +1,7 @@
+2022-02-11 23:25:51,584 - INFO - Starting Server
+2022-02-11 23:25:51,584 - INFO - Listening for Connections at Port 22
+2022-02-11 23:25:51,584 - INFO - Server Started.
+2022-02-11 23:25:52,475 - INFO - Stopping Server
+2022-02-11 23:25:52,475 - INFO - No longer listening for Connections at Port 22
+2022-02-11 23:25:52,475 - INFO - Server Stopped.
+2022-02-11 23:25:52,584 - INFO - **** Accept Failed: [WinError 10038] An operation was attempted on something that is not a socket
